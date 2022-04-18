@@ -1,7 +1,7 @@
 # PrzegladarkaMPR
 
 
-<ins>Autorzy:</ins>
+<ins>Autorki:</ins>
 
 - [Maria Kujawa @markujawa](https://github.com/markujawa)
 - [Katarzyna Latos @latoskasia](https://github.com/latoskasia)
