@@ -1,11 +1,11 @@
 # MPR Viewer
 
 
-<ins>Authors:</ins>
+<ins>Autorki:</ins>
 
 - [Maria Kujawa @markujawa](https://github.com/markujawa)
 - [Katarzyna Latos @latoskasia](https://github.com/latoskasia)
 
-<ins>Description:</ins>
+<ins>Opis:</ins>
 
-Multiplanar Reconstruction (MPR) 3D CT image viewer.
+Przeglądarka obrazów 3D CT do rekonstrukcji multiplanarnej (MPR).
