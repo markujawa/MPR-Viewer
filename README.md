@@ -8,4 +8,4 @@
 
 <ins>Description:</ins>
 
-Multiplanar Reconstruction (MPR) 3D CT image viewer
+Multiplanar Reconstruction (MPR) 3D CT image viewer.
